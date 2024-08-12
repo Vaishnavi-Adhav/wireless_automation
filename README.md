@@ -1,6 +1,6 @@
-# Bluetooth and WiFi Scanner Project
+# Wireless Automation Framework
 
-This project provides Python scripts for scanning Bluetooth and WiFi devices and utilities to facilitate logging and network operations. The project is structured into modules for easy management and scalability.
+This framework provides Python scripts for scanning Bluetooth and WiFi devices and utilities to facilitate logging and network operations. The project is structured into modules for easy management and scalability.
 
 ## Table of Contents
 
@@ -17,9 +17,9 @@ This project provides Python scripts for scanning Bluetooth and WiFi devices and
 - [Contributing](#contributing)
 - [License](#license)
 
-## Project Overview
+## Framework Overview
 
-This project includes the following functionalities:
+This framework includes the following functionalities:
 
 - **Bluetooth Scanner:** A script that scans for nearby Bluetooth devices and attempts to connect to a specific device.
 - **WiFi Scanner:** A script to scan for nearby WiFi networks.
