@@ -11,11 +11,6 @@ This framework provides Python scripts for scanning Bluetooth and WiFi devices a
   - [Bluetooth Scanner](#bluetooth-scanner)
   - [WiFi Scanner](#wifi-scanner)
 - [Testing](#testing)
-- [Utilities](#utilities)
-  - [Logger](#logger)
-  - [Network Utilities](#network-utilities)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Framework Overview
 
